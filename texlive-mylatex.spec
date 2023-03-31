@@ -1,6 +1,6 @@
 Name:		texlive-mylatex
 Version:	56751
-Release:	1
+Release:	2
 Summary:	Make a format containing a document's preamble
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mylatex
