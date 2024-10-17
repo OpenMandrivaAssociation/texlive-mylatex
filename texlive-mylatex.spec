@@ -3,7 +3,7 @@ Version:	56751
 Release:	2
 Summary:	Make a format containing a document's preamble
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mylatex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mylatex
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mylatex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mylatex.doc.r%{version}.tar.xz
